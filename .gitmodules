@@ -13,3 +13,18 @@
 [submodule "bundle/vim-ipython"]
 	path = bundle/vim-ipython
 	url = git@github.com:ivanov/vim-ipython.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git@github.com:bling/vim-airline.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "bundle/csv.vim"]
+	path = bundle/csv.vim
+	url = git@github.com:vim-scripts/csv.vim.git
+[submodule "bundle/vim-virtualenv"]
+	path = bundle/vim-virtualenv
+	url = git@github.com:jmcantrell/vim-virtualenv.git
+[submodule "bundle/Vim-R-plugin"]
+	path = bundle/Vim-R-plugin
+	url = git@github.com:jcfaria/Vim-R-plugin.git
