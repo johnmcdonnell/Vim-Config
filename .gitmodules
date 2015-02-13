@@ -28,3 +28,12 @@
 [submodule "bundle/Vim-R-plugin"]
 	path = bundle/Vim-R-plugin
 	url = git@github.com:jcfaria/Vim-R-plugin.git
+[submodule "bundle/tslime.vim"]
+	path = bundle/tslime.vim
+	url = git@github.com:jgdavey/tslime.vim.git
+[submodule "bundle/vim-eunuch"]
+	path = bundle/vim-eunuch
+	url = git://github.com/tpope/vim-eunuch.git
+[submodule "bundle/vim-sleuth"]
+	path = bundle/vim-sleuth
+	url = git://github.com/tpope/vim-sleuth.git
